@@ -1,4 +1,5 @@
-
+// Name: Azhagu Surriya
+// Student Id:
 //url to fetch all countries
 const menuURL = "https://gist.githubusercontent.com/skd09/8d8a685ffbdae387ebe041f28384c13c/raw/26e97cec1e18243e3d88c90d78d2886535a4b3a6/menu.json";
 const dataTag = document.querySelector('#data');
